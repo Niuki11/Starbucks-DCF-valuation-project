@@ -1,1 +1,2 @@
 # Starbucks-DCF-valuation-project
+This project is a comprehensive **10-year Discounted Cash Flow (DCF) valuation model** for Starbucks Corporation (SBUX). The model projects unlevered free cash flows (FCFF) from FY2025E to FY2034E, calculates the weighted average cost of capital (WACC) using the CAPM approach, and derives an implied equity value and share price. The model also includes sensitivity analysis to assess valuation under varying assumptions.
